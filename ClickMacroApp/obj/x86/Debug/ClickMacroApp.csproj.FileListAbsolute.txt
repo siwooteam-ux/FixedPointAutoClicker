@@ -1,0 +1,6 @@
+C:\Users\INFRAS-2102E\Downloads\ClickMacroApp_FullProject_WithSln\ClickMacroApp\bin\x86\Debug\ClickMacroApp.exe
+C:\Users\INFRAS-2102E\Downloads\ClickMacroApp_FullProject_WithSln\ClickMacroApp\bin\x86\Debug\ClickMacroApp.pdb
+C:\Users\INFRAS-2102E\Downloads\ClickMacroApp_FullProject_WithSln\ClickMacroApp\obj\x86\Debug\ClickMacroApp.csproj.AssemblyReference.cache
+C:\Users\INFRAS-2102E\Downloads\ClickMacroApp_FullProject_WithSln\ClickMacroApp\obj\x86\Debug\ClickMacroApp.csproj.CoreCompileInputs.cache
+C:\Users\INFRAS-2102E\Downloads\ClickMacroApp_FullProject_WithSln\ClickMacroApp\obj\x86\Debug\ClickMacroApp.exe
+C:\Users\INFRAS-2102E\Downloads\ClickMacroApp_FullProject_WithSln\ClickMacroApp\obj\x86\Debug\ClickMacroApp.pdb
